@@ -1,0 +1,58 @@
+# --- Admin & Management ---
+admin
+administrator
+login
+dashboard
+wp-admin
+controlpanel
+cpanel
+manage
+manager
+
+# --- Development & Testing ---
+dev
+development
+test
+testing
+staging
+v1
+v2
+api
+beta
+
+# --- Sensitive & Backups ---
+backup
+backups
+old
+archive
+config
+db
+database
+sql
+logs
+private
+secret
+
+# --- Assets & Resources ---
+assets
+images
+img
+js
+javascript
+css
+style
+uploads
+files
+static
+temp
+tmp
+
+# --- Sensitive Files ---
+robots.txt
+.env
+.git
+.htaccess
+config.php
+phpinfo.php
+README.md
+LICENSE
