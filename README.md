@@ -4,8 +4,8 @@ A powerful web application security tool used for discovering hidden directories
 
 # Key Features:
 
-    Supports custom wordlist paths for flexible brute-forcing.
+Supports custom wordlist paths for flexible brute-forcing.
 
-    Real-time HTTP status code reporting (200 OK, 403 Forbidden).
+Real-time HTTP status code reporting (200 OK, 403 Forbidden).
 
-    Built-in error handling for network timeouts and protocol validation.
+Built-in error handling for network timeouts and protocol validation.
