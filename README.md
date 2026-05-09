@@ -27,3 +27,10 @@ Supports custom wordlist paths for flexible brute-forcing.
 Real-time HTTP status code reporting (200 OK, 403 Forbidden).
 
 Built-in error handling for network timeouts and protocol validation.
+
+
+
+
+---
+## 📄 License
+This project is licensed under the MIT License.
